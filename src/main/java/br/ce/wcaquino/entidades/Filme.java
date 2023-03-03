@@ -1,12 +1,7 @@
 package br.ce.wcaquino.entidades;
 
-import java.util.ArrayList;
-
 public class Filme {
 
-	ArrayList<String> Filme = new ArrayList<String>();
-	
-	
 	private String nome;
 	private Integer estoque;
 	private Double precoLocacao;  
