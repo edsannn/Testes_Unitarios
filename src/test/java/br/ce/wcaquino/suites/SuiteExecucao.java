@@ -13,5 +13,5 @@ import br.ce.wcaquino.servicos.LocacaoServiceTest;
 	LocacaoServiceTest.class
 })
 public class SuiteExecucao {
-//	Remova se puder!
+	//Remova se puder!
 }
